@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/container": "4.2.*",
+        "illuminate/database": "4.2.*",
+        "illuminate/validation": "4.2.*",
+        "illuminate/translation": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [ "application/models" ]
+    }
+}
